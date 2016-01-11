@@ -33,7 +33,7 @@ Marcos Ruiz García | 648045 | [repo](https://github.com/marcosruiz/Laboratory-6
 Óscar Meler Murillo | 608919
 Aron Collados Torres | 626558
 Diego Sánchez Castillo | 628279 | [repo] (https://github.com/diegozgz92/Laboratory-6-microservices)
-Rubén Gabás Celimendiz | 590738
+Rubén Gabás Celimendiz | 590738 | [repo](https://github.com/phyrionX/Laboratory-6-microservices)
 Daniel Forcén Esteban | 558471 | [repo](https://github.com/dforcen/Laboratory-6-microservices)
 Ramón José Arellano Bitrián | 594040
 Daniel Uroz | 545338
