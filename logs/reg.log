@@ -1,0 +1,60 @@
+:registration:compileJava UP-TO-DATE
+:registration:processResources UP-TO-DATE
+:registration:classes UP-TO-DATE
+:registration:findMainClass
+:registration:bootRun
+5466: INFO  RegistrationServer - Starting RegistrationServer on cristian-PT with PID 5466 (/home/cristian/workspace/IW/Laboratory-6-microservices/registration/build/classes/main started by cristian in /home/cristian/workspace/IW/Laboratory-6-microservices/registration)
+5466: INFO  RegistrationServer - No profiles are active
+5466: INFO  RegistrationServer - Started RegistrationServer in 0.559 seconds (JVM running for 1.036)
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v1.3.0.RELEASE)
+
+5466: INFO  RegistrationServer - No profiles are active
+5466: INFO  StandardService - Starting service Tomcat
+5466: INFO  StandardEngine - Starting Servlet Engine: Apache Tomcat/8.0.28
+5466: INFO  [/] - Initializing Spring embedded WebApplicationContext
+5466: INFO  WebApplicationImpl - Initiating Jersey application, version 'Jersey: 1.13 06/29/2012 05:14 PM'
+5466: WARN  URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+5466: INFO  URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+5466: INFO  DynamicPropertyFactory - DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@37b72ea
+5466: WARN  URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+5466: INFO  URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+5466: INFO  EurekaConfigBasedInstanceInfoProvider - Setting initial instance status as: STARTING
+5466: INFO  DiscoveryClient - Not registering with Eureka server per configuration
+5466: WARN  PeerAwareInstanceRegistry - The replica size seems to be empty. Check the route 53 DNS Registry
+5466: INFO  Http11NioProtocol - Initializing ProtocolHandler ["http-nio-1111"]
+5466: INFO  Http11NioProtocol - Starting ProtocolHandler ["http-nio-1111"]
+5466: INFO  NioSelectorPool - Using a shared selector for servlet write/read
+5466: INFO  RegistrationServer - Started RegistrationServer in 4.614 seconds (JVM running for 5.016)
+5466: INFO  [/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+5466: WARN  InstanceRegistry - DS: Registry: lease doesn't exist, registering resource: ACCOUNTS-SERVICE - cristian-PT
+5466: WARN  InstanceResource - Not Found (Renew): ACCOUNTS-SERVICE - cristian-PT
+5466: INFO  InstanceRegistry - Registered instance id cristian-PT with status UP
+5466: INFO  InstanceRegistry - Registered instance id cristian-PT with status UP
+5466: WARN  InstanceRegistry - DS: Registry: lease doesn't exist, registering resource: WEB-SERVICE - cristian-PT
+5466: WARN  InstanceResource - Not Found (Renew): WEB-SERVICE - cristian-PT
+5466: INFO  InstanceRegistry - Registered instance id cristian-PT with status UP
+5466: INFO  InstanceRegistry - Registered instance id cristian-PT with status UP
+5466: WARN  InstanceResource - Time to sync, since the last dirty timestamp differs - ReplicationInstance id : cristian-PT,Registry : 1451229006526 Incoming: 1451229046538 Replication: false
+5466: INFO  InstanceRegistry - Registered instance id cristian-PT with status UP
+5466: WARN  InstanceResource - Time to sync, since the last dirty timestamp differs - ReplicationInstance id : cristian-PT,Registry : 1451229046538 Incoming: 1451229046552 Replication: false
+5466: INFO  InstanceRegistry - Registered instance id cristian-PT with status UP
+5466: WARN  InstanceResource - Time to sync, since the last dirty timestamp differs - ReplicationInstance id : cristian-PT,Registry : 1451229020723 Incoming: 1451229060729 Replication: false
+5466: INFO  InstanceRegistry - Registered instance id cristian-PT with status UP
+5466: INFO  InstanceRegistry - Registered instance id cristian-PT with status UP
+5466: WARN  InstanceResource - Time to sync, since the last dirty timestamp differs - ReplicationInstance id : cristian-PT,Registry : 1451229046552 Incoming: 1451229086561 Replication: false
+5466: INFO  InstanceRegistry - Registered instance id cristian-PT with status UP
+5466: INFO  InstanceResource - Found (Cancel): ACCOUNTS-SERVICE - cristian-PT
+5466: INFO  PeerAwareInstanceRegistry - Got 1 instances from neighboring DS node
+5466: INFO  PeerAwareInstanceRegistry - Renew threshold is: 1
+5466: INFO  PeerAwareInstanceRegistry - Changing status to UP
+5466: INFO  InstanceRegistry - Finished initializing remote region registries. All known remote regions: []
+5466: WARN  InstanceRegistry - DS: Registry: lease doesn't exist, registering resource: ACCOUNTS-SERVICE - cristian-PT
+5466: WARN  InstanceResource - Not Found (Renew): ACCOUNTS-SERVICE - cristian-PT
+5466: INFO  InstanceRegistry - Registered instance id cristian-PT with status UP
