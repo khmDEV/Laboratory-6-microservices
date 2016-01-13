@@ -10,7 +10,7 @@
 
 [Log of registration](./logs/reg.log?raw=true)
 
-![](./screenshot/2-2-microservicios.png?raw=true)
+![](./screenshot/2-microservicios.png?raw=true)
 
 ## A second account microservice is running in the port 4444 and it is registered
 
