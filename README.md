@@ -5,7 +5,7 @@ User name | NIA |Repository|Proposal|Score
 ----------|-----|----------|--------|-----
 UNIZAR-30246-WebEngineering |30246 | [repo](https://github.com/UNIZAR-30246-WebEngineering/Laboratory-6-microservices)
 AlejandroDiesteCortes | 541892 | [repo](https://github.com/AlejandroDiesteCortes/Laboratory-6-microservices)
-Cristian Román |646564
+Cristian Román |646564 |[repo](https://github.com/khmDEV/Laboratory-6-microservices)
 Javier Beltran Jorba | 532581 | [repo](https://github.com/MrJavo94/Laboratory-6-microservices)
 Marcos Canales Mayo | 467716
 Jorge Cáncer Gil | 646122
